@@ -1,2 +1,4 @@
-# paradise-nursery-app-
-React Redux shopping cart application for Paradise Nursery - IBM Final Project
+# Paradise Nursery
+
+This is an E-commerce plant shopping application for Paradise Nursery. 
+Built using React, Redux Toolkit and React Router.
